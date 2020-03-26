@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Home](README.md)
 * [Change Log](change-log.md)
 
 ## PURCHASE / Support
