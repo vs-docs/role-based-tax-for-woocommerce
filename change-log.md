@@ -1,5 +1,8 @@
 # Change Log
 
+## 2.2.1 - 23/04/2020
+* Fixed : Tax Table Listing Details
+
 ## 2.2 - 23/04/2020
 * Fixed: https://vssupport.ticksy.com/ticket/2363574
 * Improved Loading Speed
