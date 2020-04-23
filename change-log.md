@@ -2,6 +2,7 @@
 
 ## 2.2 - 23/04/2020
 * Fixed: https://vssupport.ticksy.com/ticket/2363574
+* Improved Loading Speed
 * Updated WPOnion To `1.4.5.3`
 * Updated VSP Framework To '0.8.5'
 
