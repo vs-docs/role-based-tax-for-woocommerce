@@ -1,5 +1,10 @@
 # Change Log
 
+## 2.2.2 - 06/05/2020
+* Fixed : Tax Not Display When Product Config Is Not Set
+* Updated WPOnion To `1.4.6`
+* Updated VSP Framework To `0.8.8` 
+
 ## 2.2.1 - 23/04/2020
 * Fixed : Tax Table Listing Details
 
