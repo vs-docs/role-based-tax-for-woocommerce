@@ -1,5 +1,10 @@
 # Change Log
 
+## 2.2.3 - 06/06/2020
+* Fixed : Tax Not working if options are not configured.
+* Updated WPOnion To `1.5`
+* Updated VSP Framework To `0.8.9.1` 
+
 ## 2.2.2 - 06/05/2020
 * Fixed : Tax Not Display When Product Config Is Not Set
 * Updated WPOnion To `1.4.6`
