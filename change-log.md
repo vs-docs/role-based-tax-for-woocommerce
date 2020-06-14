@@ -1,4 +1,7 @@
 # Change Log
+## 2.2.4 - 14/06/2020
+* Fixed : https://github.com/wponion/wponion/issues/252
+* Updated WPOnion To `1.5.2`
 
 ## 2.2.3 - 06/06/2020
 * Fixed : Tax Not working if options are not configured.
