@@ -1,4 +1,9 @@
 # Change Log
+
+## 2.2.5 - 19/06/2020
+* Fixed : Fatal Error Shown When Editing Product While This Plugin Active.
+* Updated WPOnion To `1.5.3`
+
 ## 2.2.4 - 14/06/2020
 * Fixed : https://github.com/wponion/wponion/issues/252
 * Updated WPOnion To `1.5.2`
